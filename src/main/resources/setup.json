@@ -1,0 +1,37 @@
+{
+	"tvDirectory" : "C:\\Users\\Public\\Recorded TV",
+	"shows" : [
+		{
+			"name" : "the strain"
+			"priority" : 1
+		},
+		{
+			"name" : "halt and catch fire"
+			"priority" : 1
+		},
+		{
+			"name" : "tyrant"
+			"priority" : 1
+		},
+		{
+			"name" : "the last ship"
+			"priority" : 2
+		},
+		{
+			"name" : "rectify"
+			"priority" : 3
+		},
+		{
+			"name" : "welcome to sweeden"
+			"priority" : 4
+		},
+		{
+			"name" : "youre the worst"
+			"priority" : 0
+		},
+		{
+			"name" : "married"
+			"priority" : 0
+		}
+	]
+}
